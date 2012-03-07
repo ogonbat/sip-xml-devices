@@ -2,9 +2,10 @@ sipxmldevices is a very light python module to generate well formatted XML code
 for SIP Devices
 
 Now we support only AASTRA sip phones.
-Yu can take more informations about this SIP devices here:
-http://www.aastra.com/products-mobility-families.htm?curr_cat=SIP+Telephones&curr_type=Family&mode_f=1&mode_c=1&mode_l=2
+We planning support more devices in the future
 
+You can take more informations about this SIP devices here:
+http://www.aastra.com/products-mobility-families.htm?curr_cat=SIP+Telephones&curr_type=Family&mode_f=1&mode_c=1&mode_l=2
 
 Installation:
 
